@@ -1,4 +1,4 @@
-# About me
+# About Me
 
 ## Head of Operations, Singapore
 
@@ -7,8 +7,8 @@
 ### Profile
 - Certified Analytical Professional by Singapore Management University.
 - Data Science Graduate (expected May 2024) from General Assembly.
-- Passionate about innovation, teamwork, and data-driven decisions.
-- Currently Head of Operations in Kosmo Tech, previously Head of Logistics at foodpanda SG.
+- Passionate about leveraging data for innovation, enhancing teamwork, and making data-driven decisions.
+- Currently serving as Head of Operations at Kosmo Tech, with a prior role as Head of Logistics at foodpanda SG.
 
 ### Education
 
@@ -23,3 +23,10 @@ Double Major in Applied Mathematics and Economics.
 - Python
 
 # Portfolio
+
+**Singapore Housing Price Estimation with High Accuracy**
+
+Developed a predictive model employing Lasso and Ridge regression techniques, achieving a remarkable R-squared value of 0.90 for Singapore housing market forecasts. This project was meticulously crafted with data preprocessing, feature engineering, and the implementation of statistical models. Additionally, an interactive Streamlit app was created to dynamically visualize predictions and offer users an intuitive interface for exploring housing price forecasts.
+
+![HDB Project Image](images/HDB photo.png)
+
