@@ -1,4 +1,4 @@
-# Portfolio
+# Profile
 
 ## Head of Operations, Singapore
 
@@ -20,10 +20,6 @@
 *Head of Logistics* (Nov 2018 - Dec 2021)
 - Managed logistics, achieving significant savings and operational efficiency.
 
-#### Volkswagen Group
-*Logistics Planning Analyst* (Aug 2017 - Nov 2018)
-- Enhanced operational KPIs and vendor performance management.
-
 ### Education
 
 **Bachelor of Science (Hons)** - National University of Singapore  
@@ -31,11 +27,9 @@ Double Major in Applied Mathematics and Economics.
 
 ### Skills
 
-- **SQL**, **Operations Management**
+- **SQL**
+- **Operations Management**
 - **Statistical Analysis**, **Machine Learning**
 - **Python**
 
-### Languages
-
-- **English**: Highly proficient
-- **Chinese**: Highly proficient
+# Portfolio
