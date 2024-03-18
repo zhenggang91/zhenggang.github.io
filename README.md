@@ -26,7 +26,9 @@ Double Major in Applied Mathematics and Economics.
 
 **Singapore Housing Price Estimation with High Accuracy**
 
-Developed a predictive model employing Lasso and Ridge regression techniques, achieving a remarkable R-squared value of 0.90 for Singapore housing market forecasts. This project was meticulously crafted with data preprocessing, feature engineering, and the implementation of statistical models. Additionally, an interactive Streamlit app was created to dynamically visualize predictions and offer users an intuitive interface for exploring housing price forecasts.
+Implemented Lasso and Ridge regression models, achieving R-squared of 0.90 in Singapore housing price prediction. This project involved extensive data cleansing, normalization, and feature engineering, optimizing for predictive accuracy. Developed a Streamlit application for real-time model interaction, showcasing model performance metrics and dynamic price forecast visualization. This work was collaboratively undertaken with Eugene Matthew Cheong and Pius Yee, contributing significantly to the project's success.
+
+View the interactive Streamlit app here: [Singapore Housing Price Prediction App](https://housepricepredmaster-mz37suvhp8fcmtsfpmsgka.streamlit.app/)
 
 ![HDB Project Image](images/HDB photo.png)
 
