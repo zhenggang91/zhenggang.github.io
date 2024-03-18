@@ -23,7 +23,6 @@ Double Major in Applied Mathematics and Economics.
 - Python
 
 #### Knowledge Sharing
-Ridge and Lasso regression:
 - [Understanding Ridge and Lasso Regression](https://ziggylim.notion.site/Understanding-Ridge-and-Lasso-Regression-657189d59d834852914ca91e21f86649?pvs=4)
 
 # Portfolio
