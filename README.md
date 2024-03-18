@@ -24,7 +24,7 @@ Double Major in Applied Mathematics and Economics.
 
 #### Knowledge Sharing
 - [Understanding Ridge and Lasso Regression](https://ziggylim.notion.site/Understanding-Ridge-and-Lasso-Regression-657189d59d834852914ca91e21f86649?pvs=4)
-- [Hypothesis Testing]([https://ziggylim.notion.site/Understanding-Ridge-and-Lasso-Regression-657189d59d834852914ca91e21f86649?pvs=4](https://ziggylim.notion.site/Hypothesis-Testing-2e71ea70a84a4fcaa66f5719d7ea764a?pvs=4))
+- [Hypothesis Testing](https://ziggylim.notion.site/Hypothesis-Testing-2e71ea70a84a4fcaa66f5719d7ea764a?pvs=4)
 
 # Portfolio
 
