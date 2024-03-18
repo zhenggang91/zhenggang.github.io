@@ -8,7 +8,7 @@
 - **Certified Analytical Professional** by Singapore Management University.
 - **Data Science Graduate** (expected May 2024) from General Assembly.
 - Passionate about **innovation, teamwork**, and **data-driven decisions**.
-- Currently *Head of Operations* in *Kosmo Tech*, previously *Head of Logistics* at foodpanda SG.
+- Currently **Head of Operations** in *Kosmo Tech*, previously **Head of Logistics** at foodpanda SG.
 
 ### Education
 
