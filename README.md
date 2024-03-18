@@ -2,7 +2,7 @@
 
 ## Head of Operations, Singapore
 
-📞 +6592367043 | 📧 zhenggang91@gmail.com
+📧 zhenggang91@gmail.com
 
 ### Profile
 - **Certified Analytical Professional** by Singapore Management University.
