@@ -22,10 +22,6 @@ Double Major in Applied Mathematics and Economics.
 - Statistical Analysis, Machine Learning
 - Python
 
-#### Knowledge Sharing
-- [Understanding Ridge and Lasso Regression](https://ziggylim.notion.site/Understanding-Ridge-and-Lasso-Regression-657189d59d834852914ca91e21f86649?pvs=4)
-- [Hypothesis Testing](https://ziggylim.notion.site/Hypothesis-Testing-2e71ea70a84a4fcaa66f5719d7ea764a?pvs=4)
-
 # Portfolio
 
 **Singapore Housing Price Estimation with High Accuracy**
@@ -35,5 +31,9 @@ Implemented Lasso and Ridge regression models, achieving R-squared of 0.90 in Si
 View the interactive Streamlit app here: [Singapore Housing Price Prediction App](https://housepricepredmaster-mz37suvhp8fcmtsfpmsgka.streamlit.app/)
 
 ![HDB Project Image](images/HDB photo.png)
+
+#### Knowledge Sharing (WIP)
+- [Understanding Ridge and Lasso Regression](https://ziggylim.notion.site/Understanding-Ridge-and-Lasso-Regression-657189d59d834852914ca91e21f86649?pvs=4)
+- [Hypothesis Testing](https://ziggylim.notion.site/Hypothesis-Testing-2e71ea70a84a4fcaa66f5719d7ea764a?pvs=4)
 
 
