@@ -1,7 +1,5 @@
 # About Me
 
-## Head of Operations, Singapore
-
 📧 zhenggang91@gmail.com
 
 ### Profile
