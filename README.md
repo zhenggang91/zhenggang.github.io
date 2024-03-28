@@ -28,6 +28,7 @@ Applying Natural Language Processing to uberEATS and uber subreddits, my group b
 
 View the interactive Streamlit app here: [Delivery and Ride Hailing Classifier](https://dsi-42-project3-nhd8nmmbaulvgavhcbsoky.streamlit.app/)
 
+![Grab Project Image](images/grab.png)
 
 **Singapore Housing Price Estimation with High Accuracy**
 
