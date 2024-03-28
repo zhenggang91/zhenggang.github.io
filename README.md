@@ -26,7 +26,7 @@ Double Major in Applied Mathematics and Economics.
 
 ![Grab Project Image](images/grab.png)
 
-Utilizing Natural Language Processing techniques on the uberEATS and uber subreddits, our team developed classifier models employing Naive Bayes, K Nearest Neighbours, and Logistic Regression algorithms. After comprehensive evaluation, we determined the Naive Bayes model to be the most effective, boasting an accuracy score of 77.7%. Subsequently, we integrated this model into our application, which efficiently categorizes Grab reviews on the Google Play Store into delivery and ride-hailing segments. This application facilitates swift and precise classification of reviews. Ng Wei and Irfan Muzafar made significant contributions to this project.
+Utilizing Natural Language Processing techniques on the uberEATS and uber subreddits, our team developed classifier models employing Naive Bayes, K Nearest Neighbours, and Logistic Regression algorithms. After comprehensive evaluation, we determined the Naive Bayes model to be the most effective, boasting an accuracy score of 77.7%. Subsequently, we integrated this model into our application, which efficiently categorizes Grab reviews on the Google Play Store into delivery and ride-hailing segments. This application facilitates swift and precise classification of reviews. Ng Wei and [Irfan Muzafar](https://irfanmuzafar.github.io/) made significant contributions to this project.
 
 View the interactive Streamlit app here: [Delivery and Ride Hailing Classifier](https://dsi-42-project3-nhd8nmmbaulvgavhcbsoky.streamlit.app/)
 
