@@ -22,6 +22,21 @@ Double Major in Applied Mathematics and Economics.
 
 # Portfolio
 
+**Robo Sommelier: Bridging the gap with competitors**
+
+The projected rise in wine consumption has led to the proliferation of wine cellars and boutiques, yet supermarkets, including NTUC, often lack expert staff, impacting customer experiences. To address this gap, our project proposes a personalized wine recommender system coupled with a chatbot. This system integrates a content-based recommender to tackle cold start issues, a collaborative filtering model using the Surprise library to refine suggestions, and a chatbot powered by OpenAI Assistant API to offer real-time, personalized recommendations and support. Anchored by the Singular Value Decomposition (SVD) model, our solution aims to provide tailored wine suggestions and knowledgeable assistance, enhancing the overall supermarket experience. Despite observed biases, such as under-reporting and purchasing bias, our model's performance underscores its reliability and accuracy, particularly for ratings above 2.0. Moving forward, we recommend exploring Spotlight for validation and addressing system limitations through alternative metrics or hybrid approaches. In conclusion, our collaborative filtering recommender system seeks to revolutionize the wine selection process, improving customer satisfaction and competitiveness in the wines market.
+
+View the interactive Streamlit app here: [Wine Recommendation System and ChatBot](https://winerecommender-capstone.streamlit.app/)
+
+**Unveiling Chronic Disease in Singaporean Lifestyle**
+
+This project targets the relationship between lifestyle habits and chronic disease risks. Our mission is to leverage data science for identifying individuals at high risk based on their behaviors, aiming for early detection and personalized health strategies.
+We'll analyze lifestyle data, such as alcohol consumption, smoking habits, dietary patterns, physical activity, and other health metrics, to pinpoint risk factors. Through data cleaning and preparation, we set the stage for exploratory data analysis (EDA) and predictive modeling. Our objective is to offer tailored recommendations, empowering individuals to make informed decisions. This approach embodies a proactive stance towards health, using data-driven insights to foster a healthier society by mitigating chronic disease risks.
+
+After prediction, we also work on a food recommender that recommend dishes that suits the users' nutrional requirements. The food recommender is in a beta version as there are limited nutritional data available online.
+
+View the interactive Streamlit app here: [Chronic Risk Classifier and Food Recommendation System](https://healthapp-chroniscope-demo.streamlit.app/)
+
 **Delivery and Ride Hailing Classifer**
 
 ![Grab Project Image](images/grab.png)
